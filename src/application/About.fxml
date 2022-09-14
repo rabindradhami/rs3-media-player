@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: #2a3132;" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1">
+	<children>
+		<Label alignment="CENTER" layoutX="10.0" layoutY="14.0" prefHeight="50.0" prefWidth="580.0" text="RS3 MEDIA PLAYER" textAlignment="CENTER" textFill="#f2ff00" textOverrun="WORD_ELLIPSIS" underline="true" wrapText="true">
+			<font>
+				<Font name="System Bold Italic" size="30.0" />
+			</font>
+		</Label>
+		<Label alignment="TOP_LEFT" layoutX="10.0" layoutY="64.0" prefHeight="27.0" prefWidth="580.0" text="This Project Is the result of hardwork and dedication from the following 4">
+			<font>
+				<Font name="System Italic" size="18.0" />
+			</font>
+		</Label>
+		<Label layoutX="58.0" layoutY="118.0" prefHeight="30.0" prefWidth="156.0" text="Contributors:" textFill="#cfc611">
+			<font>
+				<Font name="System Bold Italic" size="18.0" />
+			</font>
+		</Label>
+		<Label layoutX="57.0" layoutY="157.0" prefHeight="30.0" prefWidth="500.0" text="Rabindra Dhami     " textFill="#f8f8f8">
+			<font>
+				<Font size="18.0" />
+			</font>
+		</Label>
+		<Label layoutX="57.0" layoutY="194.0" prefHeight="30.0" prefWidth="500.0" text="Sabal Thapa  " textFill="#f8f8f8">
+			<font>
+				<Font size="18.0" />
+			</font>
+		</Label>
+		<Label layoutX="57.0" layoutY="230.0" prefHeight="30.0" prefWidth="500.0" text="Sandeep Pokhrel" textFill="#fcfafa">
+			<font>
+				<Font size="18.0" />
+			</font>
+		</Label>
+		<Label layoutX="57.0" layoutY="268.0" prefHeight="30.0" prefWidth="500.0" text="Saransh Bogati" textFill="#f5f3f3">
+			<font>
+				<Font size="18.0" />
+			</font>
+		</Label>
+	</children>
+</AnchorPane>
